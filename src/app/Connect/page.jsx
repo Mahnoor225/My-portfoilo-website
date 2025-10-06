@@ -129,7 +129,7 @@ export default function Connect() {
             </div>
             <div>
               <p className="text-gray-400">Email</p>
-              <p className="font-medium text-sm">mahnoormehboob225@gmail.com</p>
+              <p className="font-medium text-sm">softwareengineer718@gmail.com</p>
             </div>
           </div>
 
@@ -138,10 +138,12 @@ export default function Connect() {
             <div className="p-3 lg:p-4 bg-[#272730] text-[#A8FF53] rounded-lg border border-[#3B413D] text-xl">
               <FaLinkedin />
             </div>
-            <div>
+            <a href="https://www.linkedin.com/in/mahnoor-mehboob-18120b2b2/" target="_blank" rel="noopener noreferrer">
+             <div>
               <p className="text-gray-400">LinkedIn</p>
-              <p className="font-medium text-sm">linkedin.com</p>
+               <p className="font-medium text-sm">linkedin.com</p>
             </div>
+            </a>
           </div>
 
           {/* Address */}

@@ -254,12 +254,12 @@ export default function Navbar() {
                 </p>
                 <div>
                   <p className="text-sm text-[#c0c0c4]">Phone</p>
-                  <p className="font-medium text-[#8f8f92]">+92-3074915368</p>
+                  <p className="font-medium text-[#8f8f92]">+92-3704915368</p>
                 </div>
                 <div>
                   <p className="text-sm text-[#c0c0c4]">Email</p>
                   <p className="font-medium text-[#8f8f92]">
-                    mahnoormehboob225@gmail.com
+                   softwareengineer718@gmail.com
                   </p>
                 </div>
                 <div>

@@ -45,18 +45,13 @@ export default function Footer() {
             </a>
           </li>
           <li>
-            <a href="#services" className="hover:text-white transition">
-              Learning
-            </a>
-          </li>
-          <li>
             <a href="#portfolio" className="hover:text-white transition">
               Portfolio
             </a>
           </li>
           <li>
             <a href="#blog" className="hover:text-white transition">
-              Projects
+              Education
             </a>
           </li>
           <li>
