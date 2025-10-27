@@ -14,9 +14,11 @@ export default function HeroSection() {
                xl:max-w-[460px] mx-auto"
           >
             {/* Hexagon Frame */}
-            <div className="hexagon 
+            <div
+              className="hexagon 
     w-[220px] sm:w-[300px] md:w-[360px] lg:w-[370px] xl:w-[400px] 
-    aspect-square overflow-hidden relative mx-auto">
+    aspect-square overflow-hidden relative mx-auto"
+            >
               <img
                 src="/4.png"
                 alt="profile"
@@ -39,25 +41,24 @@ export default function HeroSection() {
         <div className="mt-6 lg:mt-0 text-center lg:text-left">
           {/* Code-style span */}
           <p className="text-[#F7739F] text-sm sm:text-base mb-2">
-            &lt;span&gt; <span className="text-white">Hey, I’m Mahnoor</span>{" "}
-            &lt;/span&gt;
+            <span className="text-white">Hey, I’m Mahnoor</span>
           </p>
 
           {/* Heading */}
           <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-4xl leading-normal lg:leading-none">
-            Junior <span className="text-[#74B039]">{"{Mern Stack}"}</span> Web
+            Junior <span className="text-[#74B039]">{"{MERN Stack}"}</span> Web
             Developer
           </h1>
 
           {/* Description */}
-          <p className=" text-gray-300 mt-3 text-sm sm:text-base md:text-lg max-w-xl lg:max-w-2xl">
-            &lt;p&gt; With expertise in cutting-edge technologies such as{" "}
-            <span className="text-[#F7739B]">NodeJS</span>,{" "}
+          <p className="text-gray-300 mt-3 text-sm sm:text-base md:text-lg max-w-xl lg:max-w-2xl">
+            I work with modern web technologies such as{" "}
+            <span className="text-[#F7739B]">Node.js</span>,{" "}
             <span className="text-[#F7739B]">React</span>,{" "}
             <span className="text-[#F7739B]">Next.js</span>,{" "}
-            <span className="text-[#F7739B]">Express.js</span>, and{" "}
-            <span className="text-[#F7739B]">MongoDB</span>... I deliver web
-            solutions that are both innovative and robust. &lt;/p&gt;
+            <span className="text-[#F7739B]">Express.js</span> and{" "}
+            <span className="text-[#F7739B]">MongoDB</span>. I enjoy creating
+            clean, user friendly and reliable web applications.
           </p>
 
           {/* Moving Icons */}
@@ -113,7 +114,11 @@ export default function HeroSection() {
           </div>
 
           {/* Download CV Button */}
-          <a href="/Mahnoor CV.. (2).pdf" download className="mt-12 inline-block">
+          <a
+            href="/Mahnoor CV.. (2).pdf"
+            download
+            className="mt-12 inline-block"
+          >
             <button className="cursor-pointer group relative flex gap-1.5 px-4 py-2 text-sm sm:text-base md:text-lg lg:text-xl bg-opacity-80   transition ">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
@@ -140,13 +145,7 @@ export default function HeroSection() {
   );
 }
 
-
-
-
-
 // ----------------
-
-
 
 // "use client";
 // import Image from "next/image";
@@ -158,14 +157,14 @@ export default function HeroSection() {
 //         {/* Left Side - Profile Image */}
 //         <div className="flex w-full justify-center">
 //           <div
-//             className="relative 
-//                w-full max-w-[220px] sm:max-w-[300px] 
-//                md:max-w-[360px] lg:max-w-[370px] 
+//             className="relative
+//                w-full max-w-[220px] sm:max-w-[300px]
+//                md:max-w-[360px] lg:max-w-[370px]
 //                xl:max-w-[460px] mx-auto"
 //           >
 //             {/* Hexagon Frame */}
-//             <div className="hexagon 
-//     w-[220px] sm:w-[300px] md:w-[360px] lg:w-[370px] xl:w-[400px] 
+//             <div className="hexagon
+//     w-[220px] sm:w-[300px] md:w-[360px] lg:w-[370px] xl:w-[400px]
 //     aspect-square overflow-hidden relative mx-auto bg-gradient-to-br from-[#002C45] to-[#053D56]">
 //               <img
 //                 src="/mahnoor-removebg-preview.png"
