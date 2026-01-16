@@ -46,7 +46,7 @@ export default function HeroSection() {
 
           {/* Heading */}
           <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-4xl leading-normal lg:leading-none">
-            Junior <span className="text-[#74B039]">{"{MERN Stack}"}</span> Web
+            Junior <span className="text-[#74B039]">{"{Frontend Developer}"}</span> Web
             Developer
           </h1>
 

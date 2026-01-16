@@ -169,7 +169,7 @@ export default function Education() {
           </ul>
 
           <a
-            href="/Mahnoor CV.. (2).pdf"
+            href="/Resume_Frontend Developer'Mahnoor.pdf.pdf"
             download
             className="inline-block mt-6 px-4 py-2 text-sm font-semibold text-green-400
                        border border-green-500/50 rounded-xl hover:bg-green-500/10 transition-colors duration-300"
